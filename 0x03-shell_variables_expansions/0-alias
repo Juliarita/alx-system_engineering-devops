@@ -1,0 +1,2 @@
+#!/bn/bash
+alias l="ls -al" 
