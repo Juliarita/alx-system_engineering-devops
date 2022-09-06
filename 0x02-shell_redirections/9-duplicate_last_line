@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 $file1 >>$file2 
+cat ./iacta | tail --line=1 >> iacta 
