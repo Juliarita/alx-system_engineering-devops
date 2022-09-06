@@ -1,2 +1,2 @@
 #!/bin/bash
-echo escaping \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+echo "Best School">"\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" 
